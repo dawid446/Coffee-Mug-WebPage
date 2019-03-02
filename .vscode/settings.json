@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1964b02f-e741-4a79-85a0-6a010d91955e/resourceGroups/exercise/providers/Microsoft.Web/sites/recruitmentcoffee",
+    "appService.deploySubpath": ""
+}
