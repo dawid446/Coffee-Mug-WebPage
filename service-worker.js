@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Coffee-Mug-WebPage/precache-manifest.a66e562488317175202bcea65e5c3f2c.js"
+  "/Coffee-Mug-WebPage/precache-manifest.235fd62b919329c180a1172b7182ee90.js"
 );
 
 workbox.clientsClaim();
