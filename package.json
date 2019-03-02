@@ -2,7 +2,7 @@
   "name": "product",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dawid446.github.io/coffee_mug/",
+  "homepage": "https://dawid446.github.io/Coffee-Mug-WebPage/",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
