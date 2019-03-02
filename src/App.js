@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <div>
             <Route exact path='/' component={Main}/>
             <Route path='/product/:itemId' component={OneProduct}/>
