@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/coffee_mug/precache-manifest.5a86611e83e57738e23e9d5a1efd56ae.js"
+  "/Coffee-Mug-WebPage/precache-manifest.a66e562488317175202bcea65e5c3f2c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/coffee_mug/index.html", {
+workbox.routing.registerNavigationRoute("/Coffee-Mug-WebPage/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
